@@ -3,6 +3,13 @@ Final Project for the Cognitive Interaction with Robots course (UPC) - Master in
 
 ## How to run
 
+You can run a basic behaviour as the `Curator` by:
+
+```bash
+cd Paopu
+python3 main.py
+```
+
 ## How to generate a State Machine Diagram with Mermaid
 
 You can generate a diagram for your Finite State Machine by running the `draw_states_diagram` script located at the `doc` folder.
